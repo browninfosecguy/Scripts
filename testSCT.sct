@@ -1,10 +1,9 @@
 <?XML version="1.0"?>
 <scriptlet>
 <registration 
-    progid="PoC"
+    progid="TestPOC"
     classid="{F0001111-0000-0000-0000-0000FEEDACDC}" >
-	<!-- Proof Of Concept - Casey Smith @subTee -->
-	<!--  License: BSD3-Clause -->
+	
 	<script language="JScript">
 		<![CDATA[
 	
